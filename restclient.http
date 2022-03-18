@@ -1,0 +1,14 @@
+@baseUrl = http://localhost:3000
+
+### USERS ###
+POST {{baseUrl}}/user HTTP/1.1
+content-type: application/json
+
+{
+    "quantidade": 100
+}
+### USER RANKING  ###
+GET {{baseUrl}}/ranking HTTP/1.1
+
+### RANKING ###
+POST {{baseUrl}}/ranking HTTP/1.1
