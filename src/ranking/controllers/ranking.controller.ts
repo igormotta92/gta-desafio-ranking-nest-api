@@ -7,15 +7,12 @@ import { RankingService } from '../repositories/ranking.service'
 export class RankingController {
   constructor(private readonly rankingService: RankingService) { }
 
-
   //@HttpCode(HttpStatus.ACCEPTED)
   @Post()
   sort() {
-    console.log("sort")
+    //onsole.log("sort")
     this.rankingService.sort();
   }
-
-
 
   @Get()
   async list(@Res() response: Response) {

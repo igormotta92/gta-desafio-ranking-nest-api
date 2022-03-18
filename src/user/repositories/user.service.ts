@@ -32,16 +32,9 @@ export class UserService {
     }
     query += aux.join(', ');
 
-    //console.log(query);
-
     let res = await getManager().query(query);
-
-    //console.log(res);
 
     return true;
   }
 
-  async adicionarRanking() {
-
-  }
 }

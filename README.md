@@ -22,17 +22,25 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
+
+
+# Grupo 4 
+- <a href="https://github.com/alexiaassumpcao" target="_blank">alexiaassumpcao</a>
+- <a href="https://github.com/igormotta92" target="_blank">igormotta92</a>
+- <a href="https://github.com/buchevitss" target="_blank">Buchevitss</a>
+- <a href="https://github.com/jonissongomes" target="_blank">JonissonGomes</a>
+- <a href="https://github.com/mfnp14" target="_blank">mfnp14</a>
+
 ## Description
+Este projeto foi desenvolvido no desafio 5 do Globo Academy 
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
-
-## Installation
+## Instalação
 
 ```bash
 $ npm install
 ```
 
-## Running the app
+## Rodando a aplicação
 
 ```bash
 # development
@@ -45,7 +53,7 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
-## Test
+## Testes
 
 ```bash
 # unit tests
@@ -57,17 +65,6 @@ $ npm run test:e2e
 # test coverage
 $ npm run test:cov
 ```
-
-## Support
-
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
-
-## Stay in touch
-
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
-
 ## License
 
 Nest is [MIT licensed](LICENSE).
